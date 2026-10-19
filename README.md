@@ -2,6 +2,9 @@
 
 A responsive, one-page portfolio built with plain HTML and CSS.
 
+## Link
+- https://mor1shi.github.io/cgtp-site/
+
 ## Structure
 
 - `index.html` — page structure and content
